@@ -5,4 +5,4 @@ Next, the Loughran McDonald Sentiment Dictionary will be employed to transform t
 Throughout the project, we'll employ various visualization and analysis packages to explore the data and conduct preliminary analysis. Finally, we plan to develop a user-friendly interface for easy access and interpretation of our findings.
 
 ## Acknowledgments:
-We acknowledge the support of Elia Landini, Jessie Cameron & Lina Avril (Pantheon-Sorbonne University) in the development of this project.
+We acknowledge the support of Elia Landini, Jessie Cameron & Lina Abril (Pantheon-Sorbonne University) in the development of this project.
